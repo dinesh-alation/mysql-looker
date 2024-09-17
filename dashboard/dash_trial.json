@@ -7,7 +7,7 @@
        "readonly": false,
        "refresh_interval": null,
        "refresh_interval_to_i": null,
-       "title": "New Dashboard",
+       "title": "DASH01",
        "user_id": "1",
        "slug": "Zz6gPtYJAwnCptUNU0qepN",
        "preferred_viewer": "dashboards-next",
@@ -216,7 +216,7 @@
                "column_width": null,
                "width": null,
                "deleted": false,
-               "dashboard_title": "New Dashboard",
+               "dashboard_title": "DASH01",
                "dashboard_layout_components": [
                    {
                        "id": "1",
@@ -267,7 +267,7 @@
        "tile_text_color": null,
        "title_color": null,
        "view_count": 2,
-       "url": "/dashboards/1",
+       "url": "/dashboards/2",
        "folder": {
            "name": "Shared",
            "parent_id": null,
