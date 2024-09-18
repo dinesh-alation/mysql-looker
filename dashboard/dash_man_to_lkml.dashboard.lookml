@@ -4,7 +4,6 @@
   preferred_viewer: dashboards-next
   description: ''
   preferred_slug: gscSt1vRZx5r1nDGJRu8D8
-  folder: "TEST_FOLDER"
   elements:
   - title: dash_manual
     name: dash_manual
