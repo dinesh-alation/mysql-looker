@@ -1,4 +1,3 @@
----
 - dashboard: dash_man_to_lkml
   title: Dash Man to Lkml
   layout: newspaper
